@@ -1,1 +1,6 @@
-*.rds
+/*
+!README.md
+!*.jpeg
+
+#*.rds
+#.Rproj.user
