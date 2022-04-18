@@ -19,6 +19,6 @@ More information about generation of TCR retrogenic mouse can be found here: htt
 
 ## Installation
 
-`SelectTCR` includes a wrapper function for `stitchr`. Installation instructions and more information about `stichr` can be found at https://github.com/JamieHeather/stitchr.
+`SelectTCR` includes a wrapper function for `stitchr`. Installation instructions and more information about `stitchr` can be found at https://github.com/JamieHeather/stitchr.
 
 `SelectTCR` is currently under testing to ensure functionality across a variety of data sets. If you are looking for guidance on generating retrogenic T cell constructs and would like to share your data (or ideas) for testing, please send an email to `mattacottam@gmail.com`.
