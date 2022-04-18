@@ -4,7 +4,7 @@
 
 `SelectTCR` was designed for selecting T cell receptors (TCRs) from 10X Genomics V(D)J sequencing for TCR retrogenic experiments. Retrogenic T cells express a chosen TCR that is induced through retroviral transfection. Unlike T-cell receptor transgenic mice, retrogenic TCRs can be rapidly generated (<6 weeks) for use both in vitro and in vivo and greatly expand opportunities for screening of TCRs identified in single cell experiments.
 
-![SelectTCR](https://github.com/mattacottam/SelectTCR/schem.jpeg?raw=true)
+![SelectTCR](https://github.com/mattacottam/SelectTCR/blob/main/schem.jpeg?raw=true)
 
 More information about generation of TCR retrogenic mouse can be found here: https://www.nature.com/articles/nprot.2006.61
 
